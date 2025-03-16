@@ -10,7 +10,11 @@ Here is USB 2.0 speed test with Radxa CM5.
 
 <img width="1170" alt="test" src="https://github.com/user-attachments/assets/9be45461-76d0-41b8-8f5a-9dc6f5476d39" />
 
-(Test Results)
+(Read Test)
+
+<img width="1222" alt="write test" src="https://github.com/user-attachments/assets/f4f295bb-5f5d-4161-bc2f-fe796230c80e" />
+
+(Write Test)
 
 Radxa CM5 USB2.0
 
